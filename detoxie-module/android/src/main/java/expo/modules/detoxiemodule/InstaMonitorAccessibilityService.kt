@@ -1,4 +1,3 @@
-// InstaMonitorAccessibilityService.kt
 package expo.modules.detoxiemodule
 
 import android.accessibilityservice.AccessibilityService;
