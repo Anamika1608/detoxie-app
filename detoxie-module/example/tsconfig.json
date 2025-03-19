@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "detoxie-module": ["../src/index"],
+      "detoxie-module/*": ["../src/*"]
+    }
+  }
+}
